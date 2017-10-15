@@ -1,5 +1,5 @@
 # Neural Probability Distribution Sampler
-*Training a network to sample from any probability distribution, such as the exponential distribution.*
+*A neural network to sample from any probability distribution, such as the exponential distribution.*
 
 The major requirement is to have a sufficiently larger number of realizations, drawn from the target distribution.
 
